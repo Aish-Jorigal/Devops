@@ -1,0 +1,109 @@
+https://drive.google.com/drive/folders/1IdDweDju2OMR1c8gGfeov-jyGgq4JBCQ
+
+https://github.com/lerndevops/labs/tree/master
+
+
+
+https://drive.google.com/drive/folders/1IdDweDju2OMR1c8gGfeov-jyGgq4JBCQ----
+
+CI/CD full--- https://github.com/lerndevops/labs/blob/master/cicd-flow/README.md
+
+
+
+https://drive.google.com/drive/u/0/folders/1j7-WMJIU_xghXpYDEuCcjXov5RRfg1Ov == Migration
+
+
+https://github.com/lerndevops/kubernetes/blob/master/1-intall/install-kubernetes-v1.24-ubuntu-debian.md ===kubernetes install
+
+---------------------------------
+other - https://github.com/discover-devops/my-docker
+
+
+-----------------------
+advance docker:  18th jan 2025(	Added to Course Online Session-Dev Engg-BC=240607_(DevOps))
+
+https://docs.docker.com/get-started/docker-overview/
+https://docs.google.com/document/d/10E7G7XfQIn5tibWITXXIPa3inO3LTx--q3HrUxs1MbM/edit?tab=t.0
+
+adavance k8s:
+https://github.com/qfitsolutions/k8s/blob/master/kubeadm_Installation_24thJuly2024
+
+https://docs.google.com/document/d/10E7G7XfQIn5tibWITXXIPa3inO3LTx--q3HrUxs1MbM/edit?tab=t.0
+---------------------------------------------
+
+Session-Dev Engg-BC=240607_(DevOps) ==== terraform section
+
+------------
+
+
+Session-EPGC ihub cloud-BC=241506 B_(SLA)== cloud portability and interoperabity and SLA
+
+-----------------------------------
+Devops Capstone Project - 1:
+
+
+https://drive.google.com/file/d/1_OZpFUIq3uGwy92MfyJ-Spzvn19ptQod/view?usp=drive_link
+
+
+Devops Capstone Project - 2:
+
+https://drive.google.com/drive/folders/1OBv01wkFde0dA42y15uKTowizlxIBAs5
+
+
+from:	Intellipaat Support <support@intellipaat.com> via intellipaatcom.zohodesk.com 
+reply-to:	support@intellipaat.com
+to:	aishwaryaupalanchi12345@gmail.com
+date:	Dec 5, 2024, 1:46 PM
+subject:	Re:[## 2085060 ##] need help for terraform using pipeline jenkins
+mailed-by:	intellipaatcom.zohodesk.com
+security:	 Standard encryption (TLS) Learn more
+:	Important because previous messages in the conversation were important.
+
+
+----------------------------------------------
+240510
+
+Lecture – 05/01/2025 
+---------------------------------
+16th Feb DevsecOps
+
+raw code and files : SAST (static application software testing)
+SAST and SCA testing
+Snyk login
+
+all steps are mentioned in -- https://docs.google.com/document/d/1tSafIIwMhDHWcCvSF31pIHEMq59kxF2U/edit
+
+links :
+https://docs.google.com/document/d/1tSafIIwMhDHWcCvSF31pIHEMq59kxF2U/edit
+https://github.com/rushtoaksith/juice-shop
+https://docs.snyk.io/snyk-cli/install-or-update-the-snyk-cli
+
+https://github.com/rushtoaksith/juice-shop
+https://nodejs.org/en/download
+https://docs.snyk.io/snyk-cli/install-or-update-the-snyk-cli
+https://app.snyk.io/login
+
+---
+1st march 2025
+
+
+1.  for IAC also used synk which will identified severity like low , medium and high
+2. for the container testing we are using trivy tool -- means to check vulnaralabilty see below steps:
+
+a...Install: sudo curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sudo sh -s -- -b /usr/local/bin
+b...Test using Trivy: sudo trivy image docker6767/sharkproduct --scanners vuln > image_report.txt' 
+
+--------
+ZAP used to check the issue by clicking on attck buttonx
+from Aksith to everyone:    10:20 PM
+sudo curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sudo sh -s -- -b /usr/local/bin
+
+
+Final link: 
+https://docs.google.com/presentation/d/1iA2LsD3zMVXhwHtGpfq3u7qJxX9ra9pr/edit?usp=drive_link&ouid=100547002833063762316&rtpof=true&sd=true
+--------------------------------------------------------------------------
+
+
+
+2nd March 2025
+Azure
